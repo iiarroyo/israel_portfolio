@@ -1,3 +1,4 @@
+title: [Israel Arroyo Portfolio]
 # israel_portfolio
 
 ## [Project 1: WAV Player](https://github.com/israel-iap/WAV_player)
